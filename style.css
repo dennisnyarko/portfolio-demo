@@ -4,12 +4,14 @@ div {
   background-color: green;
 }
 
+//specifications for the section link
 section {
   width: 300px;
   height: 200px;
   background-color: yellow;
 }
 
+//specifications for the about me link
 .about-me {
     width: 300px;
     height: 100px;
