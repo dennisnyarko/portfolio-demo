@@ -15,8 +15,9 @@ section {
 .about-me {
     width: 300px;
     height: 100px;
-  background-color: blue;
+  background-color: red;
   margin: 10px;
   border: solid black 10px;
   border-radius: 15px;
 }
+ //changed colors to see effect
