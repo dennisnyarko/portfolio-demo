@@ -12,7 +12,11 @@ header {
 section {
   width: 100%;
   height: 100px;
-  background-color: blue;
+  background-image: linear-gradient(red,yellow);
+  /* background-color: blue; */
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 .about-me {
