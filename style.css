@@ -1,20 +1,25 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
 header {
-  width: 50%;
+  width: 100%;
   height: 50px;
   background-color: green;
 }
 
 section {
-  width: 300px;
+  width: 100%;
   height: 100px;
-  background-color: yellow;
+  background-color: blue;
 }
 
 .about-me {
-    width: 300px;
-    height: 100px;
+    width: 100%;
+    height: 200px;
   background-color: rgb(177, 69, 21, 0.8);
-  margin: 10px;
+  margin: 10px 0 10px 0;
   border: solid black 10px;
   border-radius: 15px;
 }
